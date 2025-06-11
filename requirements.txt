@@ -1,4 +1,4 @@
-accelerate
+accelerate==0.15.0
 argh
 dacite
 demucs
@@ -9,7 +9,6 @@ numpy
 pillow>=9.1.0
 plotly
 pydub
-pysoundfile
 scipy
 soundfile
 sox
@@ -17,4 +16,5 @@ streamlit>=1.18.0
 torch
 torchaudio
 torchvision
-transformers
+transformers==4.26.1
+huggingface_hub>=0.14.1
